@@ -4,4 +4,4 @@ torch
 diffusers
 datasets 
 matplotlib
-
+accelerate
